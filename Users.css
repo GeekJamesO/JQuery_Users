@@ -1,0 +1,18 @@
+h3 {
+  display:inline-block;
+  /*borders padding margin*/
+  margin: 5px 50px;
+}
+.TitleBox {
+  border : 5px solid black;
+}
+
+.underline {
+  height:5px;
+  width: 960px;
+  border: 1px ;
+
+}
+button {
+  display:block;
+}
